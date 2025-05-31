@@ -1,2 +1,4 @@
 # FURCAST-CARE---Animal-Skin-Disease-Prediction
-A Machine Learning based model by using python language to predict the skin disease of the animal, here only dog's disease is predicted due to datasets issue, and also 2 disease can be predicted here. One is fungal and other one is bacterial infection of the skin and the normal no disease can also be predicted in False case.
+A machine learning-based model using the Python language to predict animal skin diseases.
+Here, only dog diseases are predicted due to dataset issues, and two diseases can be predicted simultaneously. 
+One is a fungal infection and the other is a bacterial infection of the skin, and a normal no disease can be predicted in False case.
